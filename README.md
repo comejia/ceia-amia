@@ -6,7 +6,7 @@ Es un curso introductorio que cubre los fundamentos de análisis matemático que
 
 ## Contenido del curso
 - **Espacios vectoriales**
-- **Operaciones matriciales**
+- **Producto interno**
 - **Autovalores y autovectores**
 - **Descomposición en valores singulares**
 - **Cálculo multivariable**
