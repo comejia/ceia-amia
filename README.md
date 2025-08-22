@@ -5,10 +5,10 @@ AMIA es una materia correspondiente al bimestre 1 de la Carrera de Especializaci
 Es un curso introductorio que cubre los fundamentos de análisis matemático que luego se utilizaran a lo largo de la carrera.
 
 ## Contenido del curso
-- **Espacios vectoriales**
-- **Producto interno**
-- **Autovalores y autovectores**
-- **Descomposición en valores singulares**
+- **Espacios vectoriales. Transformaciones lineales**
+- **Producto interno. Ortogonalidad**
+- **Proyección ortogonal. Cuadrados mínimos. Autovalores y autovectores. Diagonalización**
+- **Descomposición en valores singulares (DVS)**
 - **Cálculo multivariable**
 - **Gradiente**
 - **Optimización convexa y no convexa**
