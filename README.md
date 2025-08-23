@@ -10,6 +10,11 @@ Es un curso introductorio que cubre los fundamentos de análisis matemático que
 - **Clase 3: Proyección ortogonal. Cuadrados mínimos. Autovalores y autovectores. Diagonalización**
 - **Clase 4: Descomposición en valores singulares (DVS)**
 - **Clase 5: Cálculo multivariado. Autograd. Backpropagation**
-- **Clase 6: Optimización sin restricciones. Gradiente descendente**
-- **Clase 7: Optimización con restricciones (convexa y no convexa)**
+- **Clase 6: Optimización sin restricciones: Gradiente descendente**
+- **Clase 7: EWMA. Optimización sin restricciones: GD Extensiones (Adam), Metodos de 2° orden (BFGS). SOTA**
+- **Clase 8: Optimización con restricciones (convexa y no convexa)**
 
+
+<p align="center">
+  <img src="./teoria/temario.png" />
+</p>
