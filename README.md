@@ -9,8 +9,8 @@ Es un curso introductorio que cubre los fundamentos de análisis matemático que
 - **Producto interno. Ortogonalidad**
 - **Proyección ortogonal. Cuadrados mínimos. Autovalores y autovectores. Diagonalización**
 - **Descomposición en valores singulares (DVS)**
-- **Cálculo multivariable**
-- **Gradiente**
+- **Cálculo multivariado. Autograd. Backpropagation**
+- **Optimización en ML. Gradiente**
 - **Optimización convexa y no convexa**
 
 
